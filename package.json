@@ -1,0 +1,19 @@
+
+{
+  "name": "simple-node-website",
+  "version": "0.1.0",
+  "description": "My portfolio web",
+  "main": "server.js",
+  "scripts": {
+    "start": "npx nodemon server.js"
+  },
+  "author": "Ashmi Patel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}

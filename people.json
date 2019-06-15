@@ -1,0 +1,16 @@
+{
+  "profiles": [
+    {
+      "firstname": "Ashmi",
+      "lastname": "Patel",
+      "bio":
+        "I am a student of Georgian college. I am taking computer programmer course and having 3 years experience in developing field.",
+      "tagline": "Web Designer / PHP Developer / Backend Developer",
+      "linkedin": "https://www.linkedin.com/in/ashmi-patel-5351a2140/",
+      "imgSrc": "ash.jpg",
+      "id": "ash"
+    }
+
+   
+  ]
+}
